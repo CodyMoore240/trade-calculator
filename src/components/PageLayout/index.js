@@ -15,7 +15,7 @@ function PageLayout({
             <Box pt={4}>
                 <Paper>
                     <Box p={2}>
-                        <Typography variant="body1">This is still a work in progress. Use at your own risk. Hopefully this will become more stable in the coming days. Feedback and PRs welcome in the github <a href={`https://github.com/CodyMoore240/trade-calculator`} target="_blank" rel="noopener noreferrer">repo</a>.</Typography>
+                        <Typography variant="body1">This is still a work in progress. Use at your own risk. Hopefully this will become more stable in the coming days. Feedback, Input, and PRs welcome in the github <a href={`https://github.com/CodyMoore240/trade-calculator`} target="_blank" rel="noopener noreferrer">repo</a>.</Typography>
                     </Box>
                 </Paper>
             </Box>

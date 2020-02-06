@@ -43,7 +43,7 @@ function PlayerLine({
     const [total, setTotal] = useState(0)
 
     useEffect(() => {
-        setModifier(position + age + remYears + capHit + positionRank + devTrait)
+        setModifier(position + age + remYears + capHit + positionRank + devTrait + 1)
     }, [position, age, remYears, capHit, positionRank, devTrait])
 
     useEffect(() => {
