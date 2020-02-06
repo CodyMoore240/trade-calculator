@@ -12,6 +12,7 @@ jobs:
       matrix:
         operating-system: [ubuntu-latest]
     steps:
+      - uses: actions/checkout@v1
       - name: Setup node 12
         uses: actions/setup-node@v1
         with:
