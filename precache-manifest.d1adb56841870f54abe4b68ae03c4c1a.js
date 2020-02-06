@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2eb65857a6b5bbafd84446332e32e9fe",
+    "revision": "7f2a86cfcfd7204b8f70727d85506e9a",
     "url": "/trade-calculator/index.html"
   },
   {
-    "revision": "c4de06332b9f240d484f",
+    "revision": "80801db01b50b7a49357",
     "url": "/trade-calculator/static/css/2.11be5daf.chunk.css"
   },
   {
-    "revision": "537afa18cac6295bbb93",
+    "revision": "4684db47834ba4ae9b44",
     "url": "/trade-calculator/static/css/main.fd3e275f.chunk.css"
   },
   {
-    "revision": "c4de06332b9f240d484f",
-    "url": "/trade-calculator/static/js/2.fb47c6f6.chunk.js"
+    "revision": "80801db01b50b7a49357",
+    "url": "/trade-calculator/static/js/2.4727b057.chunk.js"
   },
   {
     "revision": "3adc01bea76e7956dc3633ee898f6936",
-    "url": "/trade-calculator/static/js/2.fb47c6f6.chunk.js.LICENSE.txt"
+    "url": "/trade-calculator/static/js/2.4727b057.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "537afa18cac6295bbb93",
-    "url": "/trade-calculator/static/js/main.73311327.chunk.js"
+    "revision": "4684db47834ba4ae9b44",
+    "url": "/trade-calculator/static/js/main.ed7b659e.chunk.js"
   },
   {
     "revision": "711c3649f143389ae84e",
