@@ -1,0 +1,20 @@
+name: Main Workflow
+
+on:
+  push:
+    branches:
+      - develop
+
+jobs:
+  build:
+    runs-on: ${{ matrix.operating-system }}
+    strategy:
+      matrix:
+        operating-system: [ubuntu-latest]
+    steps:
+      - name: Setup node 12
+        uses: actions/setup-node@v1
+        with:
+          node-version: 12.x
+      - name: Build and Deploy
+        run: npm run build
