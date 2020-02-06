@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/trade-calculator/static/css/main.fd3e275f.chunk.css",
+    "main.js": "/trade-calculator/static/js/main.73311327.chunk.js",
+    "main.js.map": "/trade-calculator/static/js/main.73311327.chunk.js.map",
+    "runtime-main.js": "/trade-calculator/static/js/runtime-main.8a5b7303.js",
+    "runtime-main.js.map": "/trade-calculator/static/js/runtime-main.8a5b7303.js.map",
+    "static/css/2.11be5daf.chunk.css": "/trade-calculator/static/css/2.11be5daf.chunk.css",
+    "static/js/2.fb47c6f6.chunk.js": "/trade-calculator/static/js/2.fb47c6f6.chunk.js",
+    "static/js/2.fb47c6f6.chunk.js.map": "/trade-calculator/static/js/2.fb47c6f6.chunk.js.map",
+    "index.html": "/trade-calculator/index.html",
+    "precache-manifest.a636c7bf6a355caaff2da48c0db131c7.js": "/trade-calculator/precache-manifest.a636c7bf6a355caaff2da48c0db131c7.js",
+    "service-worker.js": "/trade-calculator/service-worker.js",
+    "static/css/2.11be5daf.chunk.css.map": "/trade-calculator/static/css/2.11be5daf.chunk.css.map",
+    "static/css/main.fd3e275f.chunk.css.map": "/trade-calculator/static/css/main.fd3e275f.chunk.css.map",
+    "static/js/2.fb47c6f6.chunk.js.LICENSE.txt": "/trade-calculator/static/js/2.fb47c6f6.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/trade-calculator/static/media/roboto-latin-900italic.ebf6d164.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8a5b7303.js",
+    "static/css/2.11be5daf.chunk.css",
+    "static/js/2.fb47c6f6.chunk.js",
+    "static/css/main.fd3e275f.chunk.css",
+    "static/js/main.73311327.chunk.js"
+  ]
+}
